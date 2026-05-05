@@ -1,0 +1,135 @@
+{
+  "variants": {
+    "facing=north,half=lower,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_0",
+      "y": 0
+    },
+    "facing=north,half=lower,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_1",
+      "y": 0
+    },
+    "facing=north,half=lower,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_2",
+      "y": 0
+    },
+    "facing=north,half=lower,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_3",
+      "y": 0
+    },
+    "facing=north,half=upper,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_0",
+      "y": 0
+    },
+    "facing=north,half=upper,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_1",
+      "y": 0
+    },
+    "facing=north,half=upper,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_2",
+      "y": 0
+    },
+    "facing=north,half=upper,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_3",
+      "y": 0
+    },
+
+    "facing=east,half=lower,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_0",
+      "y": 90
+    },
+    "facing=east,half=lower,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_1",
+      "y": 90
+    },
+    "facing=east,half=lower,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_2",
+      "y": 90
+    },
+    "facing=east,half=lower,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_3",
+      "y": 90
+    },
+    "facing=east,half=upper,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_0",
+      "y": 90
+    },
+    "facing=east,half=upper,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_1",
+      "y": 90
+    },
+    "facing=east,half=upper,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_2",
+      "y": 90
+    },
+    "facing=east,half=upper,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_3",
+      "y": 90
+    },
+
+    "facing=south,half=lower,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_0",
+      "y": 180
+    },
+    "facing=south,half=lower,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_1",
+      "y": 180
+    },
+    "facing=south,half=lower,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_2",
+      "y": 180
+    },
+    "facing=south,half=lower,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_3",
+      "y": 180
+    },
+    "facing=south,half=upper,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_0",
+      "y": 180
+    },
+    "facing=south,half=upper,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_1",
+      "y": 180
+    },
+    "facing=south,half=upper,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_2",
+      "y": 180
+    },
+    "facing=south,half=upper,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_3",
+      "y": 180
+    },
+
+    "facing=west,half=lower,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_0",
+      "y": 270
+    },
+    "facing=west,half=lower,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_1",
+      "y": 270
+    },
+    "facing=west,half=lower,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_2",
+      "y": 270
+    },
+    "facing=west,half=lower,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_lower_3",
+      "y": 270
+    },
+    "facing=west,half=upper,rust=0": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_0",
+      "y": 270
+    },
+    "facing=west,half=upper,rust=1": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_1",
+      "y": 270
+    },
+    "facing=west,half=upper,rust=2": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_2",
+      "y": 270
+    },
+    "facing=west,half=upper,rust=3": {
+      "model": "koneko_warden_guard:block/warden_idol_upper_3",
+      "y": 270
+    }
+  }
+}

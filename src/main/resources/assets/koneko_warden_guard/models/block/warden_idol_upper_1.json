@@ -1,0 +1,7 @@
+{
+  "parent": "koneko_warden_guard:block/warden_idol_upper_0",
+  "textures": {
+		"0": "koneko_warden_guard:block/warden_idol_upper_1",
+		"particle": "koneko_warden_guard:block/warden_idol_upper_1"
+	}
+}

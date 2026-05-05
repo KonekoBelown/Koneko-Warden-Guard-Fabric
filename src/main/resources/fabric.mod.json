@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "koneko_warden_guard",
+  "version": "${version}",
+  "name": "Koneko Warden Guard",
+  "description": "使用幽匿块喂食监守者获得信任，并供养监守者神像获得召唤监守者替身的力量。",
+  "authors": [
+    "KonekoBelown",
+    "OpenAI"
+  ],
+  "license": "MIT",
+  "icon": "assets/koneko_warden_guard/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.koneko.wardenguard.WardenGuard"
+    ],
+    "client": [
+      "com.koneko.wardenguard.client.WardenGuardClient"
+    ],
+    "modmenu": [
+      "com.koneko.wardenguard.client.WardenGuardModMenu"
+    ]
+  },
+  "mixins": [
+    "koneko_warden_guard.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": ">=17.0.0"
+  }
+}

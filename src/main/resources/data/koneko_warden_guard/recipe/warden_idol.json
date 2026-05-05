@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "SCS",
+    "DDD"
+  ],
+  "key": {
+    "E": "minecraft:echo_shard",
+    "S": "minecraft:sculk",
+    "C": "minecraft:sculk_catalyst",
+    "D": "minecraft:deepslate_bricks"
+  },
+  "result": {
+    "id": "koneko_warden_guard:warden_idol",
+    "count": 1
+  }
+}
