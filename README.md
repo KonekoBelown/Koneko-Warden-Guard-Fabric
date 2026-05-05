@@ -103,10 +103,3 @@ gradle wrapper
 - `key.koneko.warden_guard.toggle`
 - `key.koneko.warden_guard.sonic`
 
-## 1.2.1 trust/idol rewrite
-
-- Taming item changed from echo shard to sculk block.
-- Taming now grants player trust instead of converting the wild Warden into the guard.
-- Added the Warden Idol block and recipe.
-- Trust expires after an approximate full-copper-oxidation window unless refreshed with sculk on the idol.
-- Retained the v7 owner-to-guard UUID cache and periodic scans to avoid TPS drops after repeated summon/recall cycles.
