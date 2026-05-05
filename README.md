@@ -1,6 +1,6 @@
-# Koneko Warden Guard — Fabric 1.21.11
+# Koneko Warden Guard
 
-独立 Fabric Mod。不会依赖或修改 Koneko March 项目。
+独立 Fabric Mod。不会依赖或修改 [Koneko March](https://github.com/KonekoBelown/Koneko-March-Fabric/) 项目。
 
 ## 功能
 
