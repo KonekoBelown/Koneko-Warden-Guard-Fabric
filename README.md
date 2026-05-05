@@ -1,6 +1,6 @@
 # Koneko Warden Guard
 
-独立 Fabric Mod。不会依赖或修改 [Koneko March](https://github.com/KonekoBelown/Koneko-March-Fabric/) 项目。
+## 本mod使用了ai进行代码编写
 
 ## 功能
 
