@@ -72,7 +72,7 @@ gradle wrapper
 - 信任状态、信任到期时间与自动召唤状态使用玩家命令标签保存，不需要持续扫描世界实体。
 - 被召唤的监守者仍是原版 Warden 实体，但带有本 Mod 的命令标签和目标过滤 Mixin。
 
-## 与 Koneko March 联动用命令标签
+## 与[ Koneko March ](https://github.com/KonekoBelown/Koneko-March-Fabric)联动用命令标签
 
 被召唤的监守者会持续携带这些命令标签，供 Koneko March 或其他 Koneko 系列 Mod 判断为“友方保护实体”：
 
